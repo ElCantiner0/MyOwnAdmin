@@ -1,0 +1,7 @@
+{
+  "name": "AppMyOwnAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
