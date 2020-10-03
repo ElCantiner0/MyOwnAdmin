@@ -1,0 +1,33 @@
+[
+    {
+      "icon":"list-outline",
+      "name": "Conceptos",
+      "redirectTo": "/conceptos"
+    },
+    {
+      "icon":"podium-outline",
+      "name": "Fondo de Ahorro",
+      "redirectTo": "/fondos-ahorro"
+    },
+    {
+      "icon":"trending-down-outline",
+      "name": "Nuevo Gasto",
+      "redirectTo": "/gastos"
+    },
+    {
+      "icon":"trending-up-outline",
+      "name": "Nuevo Ingreso",
+      "redirectTo": "/nuevo-ingreso"
+    },
+    {
+      "icon":"pencil-outline",
+      "name": "Notas",
+      "redirectTo": "/notas"
+    },
+    {
+      "icon":"information-circle-outline",
+      "name": "About",
+      "redirectTo": "/about"
+    }
+
+  ]
